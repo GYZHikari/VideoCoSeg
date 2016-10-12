@@ -1,0 +1,11 @@
+-refine: fcn global graph-cut
+ random background
+ full fcn foreground
+
+ -multi initial wrong
+  clustering those together
+  spatial domain
+
+ -motion information
+
+
