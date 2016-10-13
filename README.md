@@ -44,10 +44,10 @@ European Conference on Computer Vision (ECCV), 2016. (* indicates equal contribu
 * Step 0: generate tracklets.
 ![Pipeline](https://cloud.githubusercontent.com/assets/4355920/19338138/4be0c182-911b-11e6-96b5-d61ec2a6c1cb.png)
 * Step 1 & 2: feature extraction and co-selection
-[Co-selection](https://cloud.githubusercontent.com/assets/4355920/19338139/4be17794-911b-11e6-94f6-a87e49900b4f.png)
+![Co-selection](https://cloud.githubusercontent.com/assets/4355920/19338139/4be17794-911b-11e6-94f6-a87e49900b4f.png)
 
 ## Results
-[Results](https://cloud.githubusercontent.com/assets/4355920/19338134/3bf55f12-911b-11e6-8f18-09fe77772404.png)
+![Results](https://cloud.githubusercontent.com/assets/4355920/19338134/3bf55f12-911b-11e6-8f18-09fe77772404.png)
 
 
 
