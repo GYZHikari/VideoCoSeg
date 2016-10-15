@@ -28,7 +28,7 @@ European Conference on Computer Vision (ECCV), 2016. (* indicates equal contribu
 * run demo_tracklets_submodular.m to select and merge tracklets.
 
 ## Note
-* Currently this package only contains the implementation of our weakly-supervised video co-segmentation part and the performacne is a bit worse than the one reported in the paper.
+* Currently this package only contains the implementation of our weakly-supervised video co-segmentation part.
 
 ## Citation
 * Please cite our paper if you find this work is useful.
