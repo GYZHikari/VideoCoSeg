@@ -38,7 +38,7 @@ opt.tracklet = 'with-fcn';
 opt.edge_type = 'cnn'; % feature type cnn or shape
 opt.afftype = 'cnn'; % append multi none
 opt.dis_type = 'dot';
-opt.type = 'naive';
+opt.type = 'fcn-motion-shape';
 opt.seedNum = 'adaptive'; % one is for only one seed adaptive is for adaptively selection
 opt.normal_feat = 'none'; % norm or none
 
