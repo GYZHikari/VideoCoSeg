@@ -34,7 +34,7 @@ opt.lambda_motion = 20;
 opt.show = 0;
 opt.alpha = 1;
 
-opt.tracklet = 'fcn-motion-shape';
+opt.tracklet = 'with-fcn';
 opt.edge_type = 'cnn'; % feature type cnn or shape
 opt.afftype = 'cnn'; % append multi none
 opt.dis_type = 'dot';
