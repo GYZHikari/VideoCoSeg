@@ -16,7 +16,7 @@ European Conference on Computer Vision (ECCV), 2016. (* indicates equal contribu
 
 * Install the attached caffe branch, as instructed at http://caffe.berkeleyvision.org/installation.html.
 
-* Download the CNN model for feature extraction at https://dl.dropboxusercontent.com/u/73240677/CVPR16/pascal_segmentation.zip, then unzip the model folder under the **caffe-cedn-dev/examples** folder.
+* Download the CNN model for feature extraction at http://vllab1.ucmerced.edu/~ytsai/CVPR16/pascal_segmentation.zip, then unzip the model folder under the **caffe-cedn-dev/examples** folder.
 
 ## Usage
 * Put your own videos in "Youtube_input" or another folder (you may need to change the corresponding paths).
